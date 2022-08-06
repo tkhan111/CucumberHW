@@ -111,7 +111,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2317362300,
+  "duration": 2450749400,
   "status": "passed"
 });
 formatter.background({
@@ -130,7 +130,7 @@ formatter.match({
   "location": "LoginStepDefinition.user_is_on_the_Techfios_login_page()"
 });
 formatter.result({
-  "duration": 836663400,
+  "duration": 850647600,
   "status": "passed"
 });
 formatter.scenario({
@@ -223,21 +223,21 @@ formatter.match({
   "location": "LoginStepDefinition.user_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 6211738000,
+  "duration": 6268303800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_clicks_on_the_Submit_button()"
 });
 formatter.result({
-  "duration": 4249818300,
+  "duration": 4462057000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_should_land_on_dashboard_page()"
 });
 formatter.result({
-  "duration": 16256200,
+  "duration": 13725300,
   "status": "passed"
 });
 formatter.match({
@@ -254,14 +254,14 @@ formatter.match({
   "location": "LoginStepDefinition.user_clicks_on_and(String,String)"
 });
 formatter.result({
-  "duration": 390042600,
+  "duration": 455200800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_should_land_of_New_Account_Page()"
 });
 formatter.result({
-  "duration": 9527400,
+  "duration": 9783700,
   "status": "passed"
 });
 formatter.match({
@@ -298,32 +298,32 @@ formatter.match({
   "location": "LoginStepDefinition.user_enters_and_and_and_and_and_and(String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 782109600,
+  "duration": 881972500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_clicks_on_the_new_account_submit_button()"
 });
 formatter.result({
-  "duration": 612147100,
+  "duration": 5082877200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_should_land_on_account_created_page()"
 });
 formatter.result({
-  "duration": 5548700,
+  "duration": 9271400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.validate_the_account_created()"
 });
 formatter.result({
-  "duration": 65772928400,
+  "duration": 66159513900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 4773154000,
+  "duration": 722845300,
   "status": "passed"
 });
 });

@@ -121,5 +121,8 @@ public class LoginPage {
 	public String getPageTitle() {
 		return driver.getTitle();
 	}
-
+	
+	public void TestMethodByDeepika() {
+		System.out.println("Lets check if Git update is working :D");
+	}
 }
